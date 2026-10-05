@@ -8,7 +8,7 @@ function Signup() {
 
             <div className="grid grid-cols-2 items-center justify-center">
                 <div className="grid gap-5 mx-auto ">
-                    <div className="lg:pb-5 lg:pt-0 -mt-15 lg:mt-0 flex items-center gap-3">
+                    <div className="lg:pb-5 lg:pt-0 -mt-15 lg:mt-0 flex items-center gap-3  ">
                         <h1 className="w-12 h-12 text-center rounded-full flex items-center justify-center bg-orange-400 text-white">D</h1>
                         <h1 className="font-bold text-xl">Delizi<span className="text-orange-400">oso</span></h1>
                     </div>
